@@ -1,3 +1,5 @@
+![macOS KDK Manager Banner](banner.png)
+
 # macOS Kernel Development Kit (KDK) Manager
 
 Este é um utilitário avançado em ZSH projetado para desenvolvedores macOS e entusiastas de Hackintosh que precisam gerenciar múltiplos **Kernel Development Kits (KDKs)**. O script automatiza o ciclo de vida completo do KDK, facilitando a depuração do kernel e a análise de símbolos.
