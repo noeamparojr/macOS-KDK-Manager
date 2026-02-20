@@ -1,4 +1,4 @@
-![macOS KDK Manager Banner](banner.png)
+![macOS KDK Manager Banner](kdk_manager.png)
 
 # macOS Kernel Development Kit (KDK) Manager
 
